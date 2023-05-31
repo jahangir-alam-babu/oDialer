@@ -57,7 +57,7 @@ Stay Informed At All Times!
 
 ## Demo
 
-Insert gif or link to demo [[Click](https://odialer.net)
+Insert gif or link to demo [Click](https://odialer.net)
 
 
 ## Authors
