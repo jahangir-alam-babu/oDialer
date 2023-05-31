@@ -1,6 +1,5 @@
-## Demo
 
-Insert gif or link to demo <a href="https://odialer.net/">Click</>
+
 Get to know more about Bangladesh’s leading Call Center Company!
 
 We are the leading provider of cloud-based call center software that helps businesses of all sizes to streamline their operations, improve customer service, and reduce costs.
@@ -55,6 +54,10 @@ Stay Informed At All Times!
 • Simply click voicemails in order to play them. 
 
 • Managers have complete authority as they will be able to see stats such as queues and wallboards.
+
+## Demo
+
+Insert gif or link to demo [[Click](https://odialer.net)
 
 
 ## Authors
